@@ -104,7 +104,7 @@ nav ul li a:hover::after{
     }
    #hader {  
       width:395px;
-    height: 138vh;
+    height: 50%;
     /* background-image: url(images/pinkbackground2.png) ; */
     background-color: #FFC0CB ;
    
